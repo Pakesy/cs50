@@ -1,3 +1,3 @@
-# cs50
+#cs50
 
-## Repo for cs50 challenges
+## Repo for all of the CS50 problem sets.
