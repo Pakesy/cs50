@@ -1,0 +1,15 @@
+# CS50
+.vscode/
+*.o
+*.dSYM/
+*.swp
+*.swo
+
+# CS50 Library
+libcs50.a
+
+# C programs
+*.out
+
+# C executables
+*.exe
