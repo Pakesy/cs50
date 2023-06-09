@@ -10,6 +10,11 @@ Repo for all of the CS50 problem sets.
 
 ### Week 2 - Arrays
 
+- [x] [Readability](https://github.com/Pakesy/cs50/tree/main/week-2/problem-set/readability)
+- [x] [Substitution](https://github.com/Pakesy/cs50/tree/main/week-2/problem-set/substitution)
+- [x] [Wordle50](https://github.com/Pakesy/cs50/tree/main/week-2/problem-set/wordle)
+
+
 ### Week 3 - Algorithims
 
 ### Week 4 - Memory
