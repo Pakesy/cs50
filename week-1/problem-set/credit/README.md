@@ -4,5 +4,5 @@
 To compile you must have cs50.h installed.
 
 ```
-clang -o hello hello.c -lcs50
+clang -o credit credit.c -lcs50
 ```
