@@ -17,7 +17,13 @@ Repo for all of the CS50 problem sets.
 
 ### Week 3 - Algorithims
 
+- [x] [Plurality](https://github.com/Pakesy/cs50/tree/main/week-3/problem-set/plurality)
+- [x] [Runoff](https://github.com/Pakesy/cs50/tree/main/week-3/problem-set/runoff)
+- [x] [Tideman](https://github.com/Pakesy/cs50/tree/main/week-3/problem-set/tideman)
+
 ### Week 4 - Memory
+
+
 
 ### Week 5 - Data structures
 
