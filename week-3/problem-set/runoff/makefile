@@ -1,5 +1,5 @@
 CC = clang
-CFLAGS = -Wall -Wextra -lcs50
+CFLAGS = -Wall -Wextra -lcs50 -lm
 
 SRC_FILES := $(wildcard *.c)
 EXECUTABLES := $(SRC_FILES:.c=)
