@@ -23,8 +23,6 @@ Repo for all of the CS50 problem sets.
 
 ### Week 4 - Memory
 
-
-
 ### Week 5 - Data structures
 
 ### Week 6 - Python
