@@ -23,6 +23,9 @@ Repo for all of the CS50 problem sets.
 
 ### Week 4 - Memory
 
+- [x] [Filter-more](https://github.com/Pakesy/cs50/tree/main/week-4/problem-set/filter-more)
+- [x] [Reverse](https://github.com/Pakesy/cs50/tree/main/week-4/problem-set/reverse)
+
 ### Week 5 - Data structures
 
 ### Week 6 - Python
